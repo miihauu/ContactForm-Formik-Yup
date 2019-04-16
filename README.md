@@ -1,3 +1,8 @@
 # react-contactformformikyup
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-contactformformikyup)
+Simple form built on stackblitz.
+
+Used technologies:
+- React,
+- Formik,
+- Yup
